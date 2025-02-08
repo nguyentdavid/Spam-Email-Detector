@@ -1,0 +1,5 @@
+### Review
+So far the code works as intended, except the calculation for accuracy, precision, etc need work. 
+Whenever I have time I would like to add web API integration with Gmail, outlook, yahoo, etc. so that 
+there is no need to download emails into a csv file. Adding other functions like Natural Language Processing
+would also make this a much better program as well.
